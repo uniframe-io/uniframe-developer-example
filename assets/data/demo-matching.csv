@@ -1,0 +1,9 @@
+matching name,sequence id,expected company id
+uniframe.io,XYZ-100,A11111
+UniFrame Cloud Tech Ltd,XYZ-101,A22222
+sun analytics b.v.,XYZ-200,A33333
+sun zhe analytics nv,XYZ-201, A33336
+zhe sun,XYZ-202,A55555
+Ahmet Erdem BV,XYZ-300,A66666
+Nothing Found Ltd,XYZ-500,-1
+Escher in Het Paleis Den Haag,XYZ-600,A99999
